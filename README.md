@@ -35,11 +35,3 @@ Make sure you have the following installed:
 - Python 3.x
 - Scapy
 
-Install Scapy using:
-
-```bash
-
-## 📸 Output Screenshot
-
-![Network Sniffer Output](screenshots/output.png)
-pip install scapy
